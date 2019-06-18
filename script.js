@@ -1,6 +1,6 @@
 // firebase database GET
-const MENU_SERVER_URL = "https://shop-3cf51.appspot.com/.json";
-const MENU_SERVER_ITEM = "https://shop-3cf51.appspot.com/";
+const MENU_SERVER_URL = "https://online-shop-da8bf.firebaseio.com/.json";
+const MENU_SERVER_ITEM = "https://online-shop-da8bf.firebaseio.com/";
 
 // new EasyHTTP object
 const http = new EasyHTTP;
